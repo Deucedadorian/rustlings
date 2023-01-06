@@ -18,6 +18,9 @@ trait AppendBar {
 }
 
 //TODO: Add your code here
+impl AppendBar for Vec {
+    fn 
+}
 
 #[cfg(test)]
 mod tests {
